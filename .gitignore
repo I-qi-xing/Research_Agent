@@ -1,0 +1,25 @@
+# Python虚拟环境
+.venv/
+
+# PDF论文文件（保留目录结构）
+papers/*
+!papers/.gitkeep
+
+# 单篇分析产物
+analysis/*
+!analysis/.gitkeep
+
+# 综述报告产物
+review/*
+!review/.gitkeep
+
+# 突破点报告产物
+output/*
+!output/.gitkeep
+
+# 编排器状态缓存
+.orchestrator_state.json
+
+# Python缓存
+**/__pycache__/
+*.pyc
