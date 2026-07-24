@@ -1,0 +1,56 @@
+{
+  "papers": {
+    "AUTOMATIC CHAIN OF THOUGHT PROMPTING.pdf": {
+      "sha256": "aab4ba4d574c32c61a7c4136d89d60b07baf368b63f86b852d620ef4e5a64909",
+      "extracted": false,
+      "analyzed": false
+    },
+    "SparseTSF Slides (ICML 2024 Oral).pdf": {
+      "sha256": "0cf479bfaad7befd2abc6a1af88dec77fe2b3564672d62306a0de3318e3920b2",
+      "extracted": false,
+      "analyzed": false
+    },
+    "qy_1-s2.0-S0950705125019380-main.pdf": {
+      "sha256": "e743e1d542f91c64ce502c8e7b0f837f69cf278d721a65925375be26582294d7",
+      "extracted": false,
+      "analyzed": false
+    },
+    "基于膨胀卷积与注意力机制的多维时序预测方法_刘尚东.pdf": {
+      "sha256": "f5162dae8a04d216b7c48ebe898886de662aeb1e808af5f44784f5c6c3440215",
+      "extracted": false,
+      "analyzed": false
+    },
+    "基于大语言模型的多元时间序列预测研究_崔宗楷.pdf": {
+      "sha256": "5280236759ef04eae0a9d020571d02f44b3077f713d6601956ec8d8d144e2121",
+      "extracted": false,
+      "analyzed": false
+    },
+    "基于MODWT-变点矫正的多粒度事件时序预测方法_李海波.pdf": {
+      "sha256": "7838bd192cc2d6d9bf770fa262f3d073cf39fad37de0b0247b170759140e6caa",
+      "extracted": false,
+      "analyzed": false
+    },
+    "全局-局部特征融合的多变量时序预测方法_谢元.pdf": {
+      "sha256": "01eed5f57ee8bdd1dc92e72ea5fc4eb7b017d5d8010bae0dee9de9b287be1380",
+      "extracted": false,
+      "analyzed": false
+    },
+    "基于多尺度结合频域特征提取的时序预测方法_邱晓红.pdf": {
+      "sha256": "bbf697fef4bc67a1da1853b75751a7fe5fb4191b2fea2f423f3b281755389b51",
+      "extracted": false,
+      "analyzed": false
+    },
+    "融合深度时序特征与随机森林的甘蔗单产预测方法_玄扬.pdf": {
+      "sha256": "5f2b9ab3900b96d6f7f056bcc453068f8aaee1923589aec115fbfe7214c1dc97",
+      "extracted": false,
+      "analyzed": false
+    },
+    "基于因子感知倒置Transformer的工业多变量时序预测方法_刘世俊.pdf": {
+      "sha256": "c408073e14deabd3c8276c11cd8e5bddf973f3b4f61a26f9a550ef2c4757fc9f",
+      "extracted": false,
+      "analyzed": false
+    }
+  },
+  "synthesis_valid": false,
+  "discovery_valid": false
+}

@@ -17,9 +17,6 @@ review/*
 output/*
 !output/.gitkeep
 
-# 编排器状态缓存
-.orchestrator_state.json
-
 # Python缓存
 **/__pycache__/
 *.pyc
